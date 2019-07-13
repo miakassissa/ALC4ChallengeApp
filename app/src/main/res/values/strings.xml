@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC4-ChallengeApp</string>
+    <string name="welcome_msg">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile_alc">My Profile</string>
+    <string name="my_profile_photo">profile_photo</string>
+    <string name="my_profile_name">Bervillon Glenn MIAKASSISSA</string>
+    <string name="track_label">Track:  Android</string>
+    <string name="country_label">Country:  Congo, The Republic of</string>
+    <string name="email_label">Email:  bgmiakassissa@gmail.com</string>
+    <string name="phone_label">Phone:  242056771126</string>
+    <string name="username_label">Slack Username:  @miakassissa</string>
+</resources>
